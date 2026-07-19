@@ -26,5 +26,18 @@ Wassup! Creative fox here. Coding, building, and making pages.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+## 🗂️ My Repository Portfolio
+
+<details>
+<summary><b>Click to expand my project repositories!</b></summary>
+<br>
+
+1. 🦊 **First Project**: [foxphantom704](https://github.com) — Core project repository.
+2. 🤖 **Profile Bio**: [FoxPhantom203](https://github.com) — Main profile configuration and overview.
+3. 🍴 **Web Playground**: [Spoon-Knife](https://github.com) — Live random joke and slogan generator site.
+
+</details>
+
+
 ---
 ⭐ From [FoxPhantom203](https://github.com/FoxPhantom203) with ❤️
