@@ -5,6 +5,7 @@
 [![Matrix](https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/#foxphantom203:matrix.org)
 [![Email](https://img.shields.io/badge/Email-006400?style=for-the-badge&logo=gmail&logoColor=white)](mailto:foxphantom203@tutamail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--7556--0893-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-7556-0893)
+[![Odysee](https://img.shields.io/badge/Odysee-FoxPhantom203-FF5B5B?style=for-the-badge&logo=odysee&logoColor=white)](https://odysee.com/@FoxPhantom203:7)
 
 ![Fox Profile Picture](https://github.com/user-attachments/assets/e45da021-fbce-44ce-8374-b764b9aad433)
 
