@@ -34,9 +34,7 @@ Wassup! Creative fox here. Coding, building, and making pages.
 <summary><b>Click to expand my project repositories!</b></summary>
 <br>
 
-1. 🦊 **First Project**: [foxphantom704](https://github.com) — Core project repository.
-2. 🤖 **Profile Bio**: [FoxPhantom203](https://github.com) — Main profile configuration and overview.
-3. 🍴 **Web Playground**: [Spoon-Knife](https://github.com) — Live random joke and slogan generator site.
+1. [Ubuntu Web](https://github.com/ubuntu-online/ubuntu-web/tree/main)
 
 </details>
 
