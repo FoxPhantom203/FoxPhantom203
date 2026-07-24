@@ -11,9 +11,8 @@
 
 ### 📊 GitHub Stats
 
-![FoxPhantom203's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoxPhantom203&show_icons=true&theme=radical&hide_rank=false)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=FoxPhantom203&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FoxPhantom203&layout=compact&theme=radical&hide_border=true)
+
 
 ### 🎯 About Me
 Wassup! Creative fox here. Coding, building, and making pages.
@@ -27,16 +26,6 @@ Wassup! Creative fox here. Coding, building, and making pages.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 🗂️ My Repository Portfolio
-
-<details>
-<summary><b>Click to expand my project repositories!</b></summary>
-<br>
-
-1. [My Portfolio](https://github.com/FoxPhantom203/foxphantom704/tree/main)
-
-</details>
 
 
 ---
