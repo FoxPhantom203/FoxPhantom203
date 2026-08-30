@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80">
+  <defs>
+    <linearGradient id="trail" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6B00" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#FF6B00" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#FFAA00" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#FF6B00" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- Fox paw prints -->
+  <g fill="#FF6B00" opacity="0.7">
+    <ellipse cx="150" cy="40" rx="12" ry="8">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.5s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle cx="138" cy="28" r="5"/>
+    <circle cx="150" cy="24" r="5"/>
+    <circle cx="162" cy="28" r="5"/>
+  </g>
+  <g fill="#FF6B00" opacity="0.7">
+    <ellipse cx="400" cy="50" rx="12" ry="8">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.5s" begin="0.6s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle cx="388" cy="38" r="5"/>
+    <circle cx="400" cy="34" r="5"/>
+    <circle cx="412" cy="38" r="5"/>
+  </g>
+  <g fill="#FF6B00" opacity="0.7">
+    <ellipse cx="650" cy="35" rx="12" ry="8">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.5s" begin="1.2s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle cx="638" cy="23" r="5"/>
+    <circle cx="650" cy="19" r="5"/>
+    <circle cx="662" cy="23" r="5"/>
+  </g>
+  <g fill="#FF6B00" opacity="0.7">
+    <ellipse cx="900" cy="48" rx="12" ry="8">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.5s" begin="1.8s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle cx="888" cy="36" r="5"/>
+    <circle cx="900" cy="32" r="5"/>
+    <circle cx="912" cy="36" r="5"/>
+  </g>
+  <g fill="#FF6B00" opacity="0.7">
+    <ellipse cx="1050" cy="40" rx="12" ry="8">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.5s" begin="2.2s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle cx="1038" cy="28" r="5"/>
+    <circle cx="1050" cy="24" r="5"/>
+    <circle cx="1062" cy="28" r="5"/>
+  </g>
+  <path d="M50 40 Q300 20 600 45 T1150 40" fill="none" stroke="url(#trail)" stroke-width="2" stroke-dasharray="8 6">
+    <animate attributeName="stroke-dashoffset" from="0" to="28" dur="1.5s" repeatCount="indefinite"/>
+  </path>
+</svg>

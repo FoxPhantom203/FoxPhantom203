@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+  <defs>
+    <radialGradient id="rg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF6B00" stop-opacity="0.35"/>
+      <stop offset="70%" stop-color="#FF6B00" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="200" fill="#0D1117"/>
+  <circle cx="600" cy="100" r="140" fill="url(#rg)">
+    <animate attributeName="r" values="120;150;120" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="600" y="95" font-family="Fira Code, monospace" font-size="48" font-weight="700" fill="#FF6B00" text-anchor="middle" filter="url(#softGlow)">🦊</text>
+  <text x="600" y="145" font-family="Fira Code, monospace" font-size="22" fill="#FFAA00" text-anchor="middle">FoxPhantom203</text>
+</svg>

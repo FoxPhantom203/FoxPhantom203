@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100">
+  <defs>
+    <linearGradient id="inf" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#FF6B00"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="100" fill="#0D1117"/>
+  <text x="600" y="45" font-family="Fira Code, monospace" font-size="42" fill="url(#inf)" text-anchor="middle">∞</text>
+  <text x="600" y="75" font-family="Fira Code, monospace" font-size="14" fill="#FF6B00" text-anchor="middle" opacity="0.8">Living in the code shadows</text>
+  <circle cx="200" cy="50" r="3" fill="#FF6B00">
+    <animate attributeName="cy" values="45;55;45" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1000" cy="50" r="3" fill="#FF6B00">
+    <animate attributeName="cy" values="55;45;55" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
