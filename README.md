@@ -19,9 +19,6 @@
 
 <br><br>
 
-<!-- Infinity Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 <br>
 
 ### ✨ **Welcome to the Phantom Realm** ✨
@@ -43,9 +40,6 @@
 
 <br>
 
-<!-- Infinity Animated Line -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
 <br>
 
 ### 🔥 **Phantom Skills**
@@ -60,11 +54,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
-<br>
-
-<!-- Live Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FoxPhantom203&theme=react-dark&bg_color=0D1117&color=FF6B00&line=FF6B00&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 <br>
 
@@ -89,7 +78,4 @@
 ╔══════════════════════════════════════════════════════════╗
 ║  🦊  FoxPhantom203  •  Living in the code shadows  •  ∞  ║
 ╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
 ```
