@@ -90,9 +90,6 @@
 
 <br>
 
-<!-- Final Infinity Badge -->
-<img src="https://img.shields.io/badge/%E2%88%9E%20Infinite%20Phantom%20%E2%88%9E-FF6B00?style=for-the-badge&labelColor=0D1117"/>
-
 <br>
 
 ```text
