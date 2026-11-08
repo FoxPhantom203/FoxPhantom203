@@ -1,4 +1,4 @@
-# It's me, FOxPhantom203 🦊
+# It's me, FoxPhantom203 🦊
 
 
 <!-- Live Badges Row -->
